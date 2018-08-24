@@ -45,6 +45,9 @@
 
 ![Web apps skeleton](css.gif) 
 
+
+الصورة المتحركة تم تصميمها من قبل [jjjjjohn](https://giphy.com/jjjjjohn)
+
 ---
 
 ### كيف يبدو موقع الأكاديمية بلغة الهيكلة HTML فقط؟
@@ -53,6 +56,7 @@
 
 ![Only HTML](only_html.png) 
 
+---
 
 ### كيف يبدو موقع الأكاديمية بلغة الهيكلة HTML + لغة التنسيقات CSS؟
 
@@ -60,6 +64,3 @@
 
 ![HTML and CSS](htm_and_css.png) 
 
----
-
-الصور المتحركة في هذا الدرس من قبل [jjjjjohn](https://giphy.com/jjjjjohn)
