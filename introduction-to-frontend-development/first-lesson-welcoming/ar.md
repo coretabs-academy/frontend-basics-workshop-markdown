@@ -1,5 +1,5 @@
 
-![Frontend tech](tech.png) 
+![Frontend tech](./assets/tech.png) 
 
 ## مرحبا
 

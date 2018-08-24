@@ -1,7 +1,7 @@
 ### ماهو متصفح الإنترنت؟
 متصفح الإنترنت هو برنامج يستخدم للوصول للمواقع الإلكترونية، حيث يتيح لك عرض صفحات الويب والتفاعل معها.
 
-![browsers](browsers.png) 
+![browsers](./assets/browsers.png) 
 الصورة أعلاة لأشهر متصفحات الإنترنت 
 
 ---
@@ -11,8 +11,8 @@
 
  **الصورة التالية لتبسيط فكرة تحليل أكواد لغة HTML وكيف تبدوا النتيجة على المتصفح**
 
-![html-and-browser](html-and-browser.gif) 
+![html-and-browser](./assets/html-and-browser.gif) 
 
 **الصورة التالية لتبسيط فكرة إضافة التنسيقات بلغة CSS على عناصر الـ HTML التي تم إضافتها سابقاً**
 
-![css-and-browser](css-and-browser.gif) 
+![css-and-browser](./assets/css-and-browser.gif) 
