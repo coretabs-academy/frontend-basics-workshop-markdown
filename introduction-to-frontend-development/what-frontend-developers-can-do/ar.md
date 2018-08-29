@@ -7,9 +7,9 @@
 
 ### بإمكانك تجربة بعض التطبيقات من الروابط التالية: 
 
-[https://www.selio.com/](https://www.selio.com/)
+[https://www.selio.com](https://www.selio.com)
 
-[https://pablotheflamingo.com/](https://pablotheflamingo.com/)
+[https://pablotheflamingo.com](https://pablotheflamingo.com)
 
 [https://threejs.org](https://threejs.org)
 
