@@ -7,15 +7,15 @@
 
 ### بإمكانك تجربة بعض التطبيقات من الروابط التالية: 
 
-[https://www.selio.com](https://www.selio.com)
+[https://www.selio.com](https://www.selio.com){:target="_blank"}
 
-[https://pablotheflamingo.com](https://pablotheflamingo.com)
+[https://pablotheflamingo.com](https://pablotheflamingo.com){:target="_blank"}
 
-[https://threejs.org](https://threejs.org)
+[https://threejs.org](https://threejs.org){:target="_blank"}
 
-[https://www.progressivewebflap.com](https://www.progressivewebflap.com)
+[https://www.progressivewebflap.com](https://www.progressivewebflap.com){:target="_blank"}
 
-[https://play.google.com/store/apps/details?id=sworkitapp.sworkit.com](https://play.google.com/store/apps/details?id=sworkitapp.sworkit.com)
+[https://play.google.com/store/apps/details?id=sworkitapp.sworkit.com](https://play.google.com/store/apps/details?id=sworkitapp.sworkit.com){:target="_blank"}
 
-[https://itunes.apple.com/app/apple-store/id527219710?pt=487312&at=1lcXH](https://itunes.apple.com/app/apple-store/id527219710?pt=487312&at=1lcXH)
+[https://itunes.apple.com/app/apple-store/id527219710?pt=487312&at=1lcXH](https://itunes.apple.com/app/apple-store/id527219710?pt=487312&at=1lcXH){:target="_blank"}
 
