@@ -48,9 +48,9 @@
 
 ``` 
 
-<header></header>
-<main></main>
-<footer></footer>
+<div id="header"></div>
+<div id="main"></div>
+<div id="footer"></div>
 
 ```
 
