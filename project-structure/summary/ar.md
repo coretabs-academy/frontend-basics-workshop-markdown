@@ -49,8 +49,8 @@
 ```html
 
 <header></header>
-<header></header>
-<header></header>
+<main></main>
+<footer></footer>
 
 ```
 
