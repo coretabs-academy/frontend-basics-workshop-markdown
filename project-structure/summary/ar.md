@@ -46,11 +46,11 @@
 
 لذا مع شيوع تلك المسميات تم تقديم عناصر جديدة في إصدار لغة HTML الأخير والذي هو HTML5 بحيث أصبح بالإمكان كتابة الأكواد السابقة بالشكل التالي:
 
-``` 
+```html
 
-<div id="header"></div>
-<div id="main"></div>
-<div id="footer"></div>
+<header></header>
+<header></header>
+<header></header>
 
 ```
 
