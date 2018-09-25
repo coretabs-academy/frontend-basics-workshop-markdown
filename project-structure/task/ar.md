@@ -24,19 +24,19 @@
 
 ![image|600x210](assets/banner.jpg) 
 
-قم بالضغط على الصورة بزر الماوس الأيمن وإختيار (Copy image address) أو بالعربية (نسخ عنوان الصورة) للحصول على رابط الصورة الذي ستقوم بإستخدامة في سمة الـ `src` الخاصة بعنصر الصورة.
+قم بالضغط على الصورة بزر الماوس الأيمن وإختيار (Copy image address) أو بالعربية (نسخ عنوان الصورة) للحصول على رابط الصورة الذي ستقوم بإستخدامة في سمة الـ `src`
 
 **ملاحظة:** بإمكانك إستخدام أي صورة أخرى لكن تذكر ان تقوم بإعطاء الصورة سمات عرض `width` وإرتفاع `height` بالأبعاد المناسبة حتى تكون مطابقة للتصميم.
 
 ## أين تقوم بكتابة الأكواد ؟ 
 الدرس التالي هو عبارة عن بيئة عمل بإمكانك البدء بالعمل عليها وكتابة الأكواد الخاصة بك، قم بالإنتقال لبيئة العمل من القائمة الجانبية او من الزر التالي بعد إنتهائك من قرأة تعليمات المهمة.
 
-<a href="#" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;" download>بيئة العمل</a>
+<a href="#" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;" target="_blank">بيئة العمل</a>
 
 ## كيف تقوم بمشاركة الكود؟
 قم بمشاركة الكود الذي قمت بكتابته في منصة المجتمع على الرابط التالي:
 
-<a href="#" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;" download>مشاركة الكود</a>
+<a href="https://forums.coretabs.net/t/مشاركة-حلول-مهمة-تطبيق-فيتامين-واو/979" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;" target="_blank">مشاركة الكود</a>
 
 
 اذا واجهتك أي مصاعب فكن قدها وإعرف بأن ذلك يعني بأنك وصلت إلى نقطة إكتساب مهارة ومعرفة جديدة وامامك خيارين إما الإستسلام أو تحقيق أهدافك :blush: وتذكر دائماً أن تطلب المساعدة من أعضاء مجتمعنا الرائع في أي وقت.
