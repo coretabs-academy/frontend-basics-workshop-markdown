@@ -31,7 +31,7 @@
 ## أين تقوم بكتابة الأكواد ؟ 
 الدرس التالي هو عبارة عن بيئة عمل بإمكانك البدء بالعمل عليها وكتابة الأكواد الخاصة بك، قم بالإنتقال لبيئة العمل من القائمة الجانبية او من الزر التالي بعد إنتهائك من قرأة تعليمات المهمة.
 
-<a href="#" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;" target="_blank">بيئة العمل</a>
+<a href="https://coretabs.net/classroom/frontend/html-css-basics/العمل-على-هيكلة-المشروع/بيئة-عمل-مهمة-تقسيم-وهيكلة-صفحات-الويب" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;" target="_blank">بيئة العمل</a>
 
 ## كيف تقوم بمشاركة الكود؟
 قم بمشاركة الكود الذي قمت بكتابته في منصة المجتمع على الرابط التالي:
