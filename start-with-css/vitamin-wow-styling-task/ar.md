@@ -13,9 +13,9 @@
 ![نتيجة المهمة السابقة](assets/1.jpg)
 
 
-## لم تقم بالعمل على المهمة؟
+## لم تقم بالعمل على المهمة السابقة؟
 
-لا بأس بإمكانك العودة لدرس المهمة وإكمالها ومن ثم العودة للعمل على هذه المهمة
+لا بأس بإمكانك العودة لها وإكمالها ومن ثم العودة للعمل على هذه المهمة
 
 <a href="https://coretabs.net/classroom/frontend/html-css-basics/العمل-على-هيكلة-المشروع/التدرب-على-تقسيم-وهيكلة-الصفحات" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;" target="_blank">المهمة السابقة</a>
 
