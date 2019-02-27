@@ -11,7 +11,7 @@
        background-color: #4268b3;
        color: #ffffff;
        width: 100%;
-       height: 200px; //هنا التغييرات تمت
+       height: 200px; //هنا تمت التغييرات
        line-height: 50px;
        font-size: 30px;
        letter-spacing: -1px;
@@ -41,7 +41,7 @@
        color: #ffffff;
        width: 100%;
        height: 200px; 
-       line-height: 200px; //هنا التغييرات تمت
+       line-height: 200px; //هنا تمت التغييرات
        font-size: 30px;
        letter-spacing: -1px;
        text-align: center; 
