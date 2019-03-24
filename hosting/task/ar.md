@@ -11,12 +11,8 @@
 5- قم بإطلاق الموقع من خلال Github pages.
 6- قم بمشاركة رابط الموقع معنا على منصة المجتمع.
 
-### المهمة الثانية:
-1- قم بتنزيل ملفات مشروع **فيتامين واو** التي قمت بالعمل عليه خلال المهام السابقة.
-2- قم بتطبيق نفس بقية الخطوات أعلاة من الخطوة 2 حتى الخطوة 6.
 
-
-## أين ستقوم بمشاركة روابط المواقع؟
+## أين ستقوم بمشاركة رابط المواقع؟
 قم بذلك من خلال الصفحة التالية في منصة المجتمع
 
 <a href="https://forums.coretabs.net/t/مشاركة-حلول-إطلاق-المواقع/1384" style="display: block; width: 200px; background-color: #5355e8; background-image:linear-gradient(to left, #2d43e7, #9042e8); color:#fff; padding: 10px; margin: 30px auto; border-radius:100px; text-decoration: none; font-size: 18px; text-align: center;" target="_blank">مشاركة المواقع</a>
